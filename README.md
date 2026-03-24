@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **Python in Kannada** 🐍🇮🇳 YouTube course — your one-stop resource to learn Python from scratch in namma kannada 💛❤️
 
-📺 Watch the Course on YouTube: [Engineering in Kannada](https://www.youtube.com/@Engineering_in_Kannada)
+📺 Watch the Course on YouTube: [Engineering in Kannada](https://www.youtube.com/@EngineeringinKannada)
 
 
 ## 📚 About the Course
@@ -12,7 +12,7 @@ Whether you're a beginner or someone looking to solidify your coding foundation,
 
 ## 🔗 Useful Links
 
-* 📺 YouTube: [@Engineering\_in\_Kannada](https://www.youtube.com/@Engineering_in_Kannada)
+* 📺 YouTube: [@Engineering\_in\_Kannada](https://www.youtube.com/@EngineeringinKannada)
 * 📸 Instagram: [@engineering\_in\_kannada](https://instagram.com/engineering_in_kannada)
 * 🧠 Personal Motivation Channel: [@chandan.speaks](https://instagram.com/chandan.speaks)
 
